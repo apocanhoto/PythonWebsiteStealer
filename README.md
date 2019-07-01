@@ -9,8 +9,7 @@ git push -u origin master
 
 
 # Description
-From a webpage, create a .jpg image.
-
+From a webpage, create a .jpg image. If possible, merge images to cut redundant pixels.
 
 # Examples
 
